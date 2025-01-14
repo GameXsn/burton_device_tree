@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/motorola/burton/device.mk)
 
 PRODUCT_DEVICE := burton
-PRODUCT_NAME := omni_burton
+PRODUCT_NAME := twrp_burton
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := motorola edge plus
 PRODUCT_MANUFACTURER := motorola
